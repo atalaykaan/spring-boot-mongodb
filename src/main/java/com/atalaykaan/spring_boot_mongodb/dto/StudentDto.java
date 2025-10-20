@@ -15,5 +15,7 @@ public class StudentDto {
 
     private String name;
 
+    private Integer mark;
+
     private String address;
 }
